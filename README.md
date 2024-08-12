@@ -14,3 +14,7 @@ This project is an Android application designed to fetch and display news headli
 ## Architecture
 
 The app uses the MVVM architecture, ensuring a clear separation between data handling (Model), business logic (ViewModel), and UI components (View). This makes the app easier to maintain, test, and extend.
+
+## Screenshots
+
+![NewsAppHeadlines](https://github.com/user-attachments/assets/ceb77d16-13b3-420b-b224-800096e438b4)
