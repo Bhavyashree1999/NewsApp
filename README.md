@@ -8,6 +8,8 @@ This project is an Android application designed to fetch and display news headli
 - Displays headlines in a user-friendly list format.
 - Implements a loading state to indicate when news is being fetched.
 - Logs errors and exceptions for better debugging and handling of API responses.
+- Used public API to fetch news headlines, that is [https://newsapi.org/]
+- 
 
 ## Architecture
 
