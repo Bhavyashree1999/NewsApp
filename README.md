@@ -18,3 +18,8 @@ The app uses the MVVM architecture, ensuring a clear separation between data han
 ## Screenshots
 
 ![NewsAppHeadlines](https://github.com/user-attachments/assets/ceb77d16-13b3-420b-b224-800096e438b4)
+
+## Recordings
+
+https://github.com/user-attachments/assets/923b3b5f-77d9-4526-ba16-0a9a6de44f1b
+
