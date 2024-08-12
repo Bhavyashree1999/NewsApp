@@ -2,7 +2,7 @@
 
 This project is an Android application designed to fetch and display news headlines using the NewsAPI. The app is built with Kotlin and Jetpack Compose, and it follows the MVVM (Model-View-ViewModel) architecture.
 
-### APK link - [https://github.com/Bhavyashree1999/NewsApp/blob/main/app-debug.apk]
+### ( APK link - )[https://github.com/Bhavyashree1999/NewsApp/blob/main/app-debug.apk]
 
 ## Features
 
